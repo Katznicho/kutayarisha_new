@@ -1,0 +1,159 @@
+[
+  {
+    "title": "Basic",
+    "price": 500000,
+    "items": [
+      {
+        "title": "Weekly Reminders",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Doctor Appoiontments includes pick ups and drop off",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Counselling Services",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Medication Reminders",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Emergency Contacts",
+        "color": "text-red-500"
+      },
+      {
+        "title": "24 Hour Nurse Helpline and Support",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Ultra Sound Scan",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Meal Plans",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Money Pay Back Guarantee before 30 days", 
+        "color": "text-green-500"
+      }
+      
+    ]
+  },
+  {
+    "title": "Standard",
+    "price": 1000000,
+    "items": [
+      {
+        "title": "Weekly Reminders",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Doctor Appoiontments includes pick ups and drop off",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Counselling Services",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Medication Reminders",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Emergency Contacts",
+        "color": "text-red-500"
+      },
+      {
+        "title": "24 Hour Nurse Helpline and Support",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Ultra Sound Scan",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Meal Plans",
+        "color": "text-green-500"
+      },
+      
+      {
+        "title": "Home Nurse",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Emergency Visits",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Monthly Checkups",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Money Pay Back Guarantee before 30 days", 
+        "color": "text-green-500"
+      }
+    ]
+  },
+  
+  {
+    "title": "Premium",
+    "price": 2000000,
+    "items": [
+      {
+        "title": "Weekly Reminders",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Doctor Appoiontments includes pick ups and drop off",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Counselling Services",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Medication Reminders",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Emergency Contacts",
+        "color": "text-red-500"
+      },
+      {
+        "title": "24 Hour Nurse Helpline and Support",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Ultra Sound Scan",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Meal Plans",
+        "color": "text-green-500"
+      },
+      {
+        "title": "Home Nurse",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Emergency Visits",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Weeely Checkups",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Behavioural Therapy and Health",
+        "color": "text-red-500"
+      },
+      {
+        "title": "Money Pay Back Guarantee before 30 days", 
+        "color": "text-green-500"
+      }
+    ]
+  }
+]
